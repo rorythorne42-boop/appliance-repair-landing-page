@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,7 +67,7 @@
     <header class="bg-white shadow-md">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
             <h1 class="text-3xl font-extrabold text-gray-900">
-                <span class="text-primary">Local</span> Repair Leads
+                <span class="text-primary">Local</span> Appliance Repair
             </h1>
             <!-- The href and content are set via JavaScript using the defined constant -->
             <a id="header-cta-link" href="#" class="hidden md:block text-lg font-semibold text-gray-700 hover:text-primary transition duration-150">
@@ -78,7 +77,7 @@
     </header>
 
     <!-- Main Content Area -->
-    <main class="main-content max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 lg:py-16">
+    <main class="main-content max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 lg:py-10">
 
         <!-- Hero Section -->
         <section class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
@@ -270,3 +269,5 @@
             });
         });
     </script>
+</body>
+</html>
